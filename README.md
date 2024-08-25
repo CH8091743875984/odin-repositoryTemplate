@@ -17,4 +17,4 @@ npm install --save-dev style-loader css-loader
 
 npx webpack to generate dist files
 
-initalize npm after template download?
+run npm install once copied
